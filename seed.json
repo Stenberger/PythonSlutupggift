@@ -1,0 +1,146 @@
+{
+    "SGC" :[
+        {
+            "first_name" : "George",
+            "last_name" : "Hammond",
+            "rank" : "Lt General",
+            "occupation" : "Air Force General"
+        },
+        {
+            "first_name" : "Jack",
+            "last_name" : "O'neill",
+            "rank" : "Colonel",
+            "occupation" : "Air Force Colonel"
+        },
+        {
+            "first_name" : "Samantha",
+            "last_name" : "Carter",
+            "rank" : "Captain",
+            "occupation" : "Astrophysicist"
+        },
+        {
+            "first_name" : "Teal'c",
+            "last_name" : "Of Chulak",
+            "rank" : "Former First Prime of Apophis",
+            "occupation" : "Honorary Chief Master Sergeant at USAF"
+        },
+        {
+            "first_name" : "Daniel",
+            "last_name" : "Jackson",
+            "rank" : "Civilian contractor",
+            "occupation" : "Archaeologist"
+        },
+        {
+            "first_name" : "Janet",
+            "last_name" : "Frasier",
+            "rank" : "Major",
+            "occupation" : "Chief Medical Officer"
+        },
+        {
+            "first_name" : "Cameron", 
+            "last_name" : "Mitchell",
+            "rank" : "Colonel",
+            "occupation" : "Fighter Pilot"
+        },
+        {
+            "first_name" : "Jonas",
+            "last_name" : "Quinn",
+            "rank" : "Offworld contractor",
+            "occupation" : "Kelownan Advisor"
+        },
+        {
+            "first_name" :  "Hank",
+            "last_name" : "Landry",
+            "rank" : "General",
+            "occupation" : "Air Force General" 
+        },
+        {
+            "first_name" : "Walter",
+            "last_name" : "Harriman",
+            "rank" : "Sergeant",
+            "occupation" : "Technician"
+        },
+        {
+            "first_name" : "Sylvester",
+            "last_name" : "Siler",
+            "rank" : "Master Sergeant",
+            "occupation" : "Engineer"
+        },
+        {
+            "first_name" : "Vala",
+            "last_name" : "Mal Doran",
+            "rank" : "Offworld contractor",
+            "occupation" : "Former Host of Goa'uld Qetesh"
+        }
+        
+    ],
+
+    "SYSTEM_LORDS":[
+        {
+            "name" : "Ra",
+            "appearance" : "Dark hair, medium height, male",
+            "mythos" : "Egyptian",
+            "status" : "Deceased"
+        },
+        {
+            "name" : "Apophis",
+            "appearance" : "Dark skin, gilded armor, arrogant, male",
+            "mythos" : "Egyptian",
+            "status" : "Deceased"
+        },
+        {
+            "name" : "Ba'al",
+            "appearance" : "Bearded, Middle aged white male, smug face, greyish hair",
+            "mythos" : "Phoenician",
+            "status" : "Alive"
+        },
+        {
+            "name" : "Hathor",
+            "appearance" : "Mid 30s, red hair, female",
+            "mythos" : "Egyptian",
+            "status" : "Deceased"
+        },
+        {
+            "name" : "Amaterasu",
+            "appearance" : "Mid 30s, asian origin, female, often seen in kimono and red lips",
+            "mythos" : "Japanese",
+            "status" : "Alive"
+        },
+        {
+            "name" : "Yu Huang Shang-Ti",
+            "appearance" : "Aged asian male, long beard, traditional chinese clothing",
+            "mythos" : "Chinese",
+            "status" : "Alive"
+        },
+        {
+            "name" : "Anubis",
+            "appearance" : "Dark cloak, shimmering, ethereal",
+            "mythos" : "Egyptian",
+            "status" : "Inactive"
+        },
+        {
+            "name" : "Camulus",
+            "appearance" : "Mid 30s, male, brown hair, muscular",
+            "mythos" : "Celtic",
+            "status" : "Deceased"
+        },
+        {
+            "name" : "Cronus",
+            "appearance" : "Grey long hair, 40s, male, normal build",
+            "mythos" : "Greek",
+            "status" : "Deceased"
+        },
+        {
+            "name" : "Svarog",
+            "appearance" : "Short hair, 30s, male, facial paint",
+            "mythos" : "Slavic",
+            "status" : "Unknown"
+        },
+        {
+            "name" : "Nirrti",
+            "appearance" : "Bindi, mid 30s, female, shoulder lentgh hair",
+            "mythos" : "Hindi",
+            "status" : "Deceased"
+        }
+    ]
+}
